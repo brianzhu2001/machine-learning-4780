@@ -1,0 +1,10 @@
+
+[Executed at: Sat Oct 9 13:07:19 PDT 2021]
+
+grading Python notebook
+Matplotlib is building the font cache; this may take a moment.
+0.744375
+.....
+---------- 
+ Correctness points = 100.0/100.0 
+

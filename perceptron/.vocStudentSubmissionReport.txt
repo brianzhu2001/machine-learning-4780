@@ -1,0 +1,15 @@
+
+[Executed at: Sat Oct 2 20:15:05 PDT 2021]
+
+GRADER_python_HW2_Perceptron.py
+Matplotlib is building the font cache; this may take a moment.
+Test 1 passed...
+Test 2 passed...
+Test 3 passed...
+.....
+Looks like you passed all the test cases!
+
+Correctness points: 95.0
+Competition points: 0.0
+[NbConvertApp] Converting notebook python_HW2_Perceptron.ipynb to script
+[NbConvertApp] Writing 18410 bytes to python_HW2_Perceptron.py
